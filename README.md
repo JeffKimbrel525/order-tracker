@@ -28,3 +28,10 @@ either date or PO number.
 All order numbers, addresses, and account details in this repo are
 randomly generated (with AI assistance) to match the format of real
 data. No actual customer information is included.
+
+## Running this
+This script expects two files:
+- A "download*.xls" export in your Downloads folder
+- A "Master Data.xlsx" file in Documents
+
+File paths are currently hardcoded for a Windows/OneDrive setup and would need adjusting for other environments.
